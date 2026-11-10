@@ -166,7 +166,7 @@ The application uses Python's built-in capabilities and does not require externa
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ladyami/Restaurant-order-management.git
 ```
 
 Navigate into the project directory:
